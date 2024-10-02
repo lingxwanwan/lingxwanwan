@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @lingxwanwan
-- 👀 I’m interested in Artifivial Intelligence and Robotics
-- 🌱 I’m currently learning Advanced Programming
 - 💞️ I’m looking to collaborate on Artificial Intelligence
 - 📫 How to reach me: Through my email: samyak06jain2004@gmail.com
 
